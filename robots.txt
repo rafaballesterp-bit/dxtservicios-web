@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /personal/
+
+Sitemap: https://www.dxtservicios.es/sitemap.xml
